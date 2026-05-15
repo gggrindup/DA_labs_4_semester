@@ -1,0 +1,9 @@
+build/
+/build/
+/out/
+
+.vscode/
+
+*.o
+*.out
+.cache
