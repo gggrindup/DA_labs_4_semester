@@ -1,0 +1,1 @@
+./build/da_lab_02_app < input.txt > output.txt
